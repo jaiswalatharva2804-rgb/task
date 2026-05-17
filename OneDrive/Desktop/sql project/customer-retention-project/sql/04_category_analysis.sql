@@ -1,0 +1,2 @@
+-- Product Category Analysis
+-- Analyze retention by product categories
